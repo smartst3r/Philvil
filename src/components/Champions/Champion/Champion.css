@@ -1,0 +1,17 @@
+.Cdiv {
+    display: inline-block;
+    margin: 5px 5px 0 0;
+    width: 75px;
+    height: 75px;
+}
+.CImage {
+    margin: 0 12px;
+    width: 48px;
+    height: 48px;
+
+}
+.CName {
+    text-align: center;
+    font-size: .8em;
+    margin: 5px 0;
+}
